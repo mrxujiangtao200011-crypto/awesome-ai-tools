@@ -590,6 +590,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
 
+- 
+
 
 created by [Mahsima Dastan](https://github.com/mahseema)
  
